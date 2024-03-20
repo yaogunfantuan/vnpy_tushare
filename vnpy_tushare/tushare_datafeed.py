@@ -46,7 +46,8 @@ EXCHANGE_VT2TS: Dict[Exchange, str] = {
     Exchange.INE: "INE",
     Exchange.SSE: "SH",
     Exchange.SZSE: "SZ",
-    Exchange.GFEX: "GFE"
+    Exchange.GFEX: "GFE",
+    Exchange.BSE: "BJ"
 }
 
 # 时间调整映射
